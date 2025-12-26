@@ -95,7 +95,7 @@ else:
 
 ---
 
-## Step-by-step (Success Coach Requirements)
+## Step-by-step
 
 ### Step 3 — Basic If/Else
 **Requirement:**
