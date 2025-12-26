@@ -108,7 +108,7 @@ else:
 - the `if` block prints “Access Granted”
 - the `else` block prints “Access Denied”
 
-✅ Try these tests:
+ Try these tests:
 - `is_admin = True` → Access Granted
 - `is_admin = False` → Access Denied
 
@@ -126,7 +126,7 @@ else:
 - `in_business_hours = (login_hour >= 8 and login_hour <= 18)`
 - the `if / elif / else` prints the correct message
 
-✅ Try these tests:
+ Try these tests:
 - `is_admin=True, login_hour=9` → Admin access during business hours.
 - `is_admin=True, login_hour=2` → Partial access – check restrictions.
 - `is_admin=False, login_hour=10` → Partial access – check restrictions.
@@ -143,7 +143,7 @@ else:
 - 2 or below → Restricted
 - anything else → Invalid Level
 
-✅ Try these tests:
+ Try these tests:
 - `security_level = 5` → Top Secret Clearance
 - `security_level = 4` → Secret Clearance
 - `security_level = 3` → Confidential Clearance
