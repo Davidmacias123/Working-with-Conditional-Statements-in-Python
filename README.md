@@ -1,2 +1,15 @@
-# Working-with-Conditional-Statements-in-Python
-Python script demonstrating basic access control logic using if/else and if/elif/else statements. The program evaluates admin status, login time, and security clearance levels to grant or deny access. Built as part of a Success Coach challenge to practice conditional logic and decision-making in Python.
+# List Operations: Access Control (Python)
+
+Success Coach GitHub Project
+
+This project demonstrates Python conditional logic using:
+- if / else
+- if / elif / else
+- logical operators (and, or)
+
+## Files
+- list_operations.py
+- screenshots/
+
+## How to Run
+Open in Spyder via Anaconda Navigator and click Run.
