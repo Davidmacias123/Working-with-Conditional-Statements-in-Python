@@ -153,7 +153,7 @@ else:
 
 ---
 
-## Explain like you’re 5 (super simple)
+## Simple explanation
 
 ### The script is like a door with rules:
 - **`is_admin`** is like having a **special VIP badge**.
@@ -242,5 +242,6 @@ The code just checks the rules and prints the right sentence.
 
 ---
 
-## Author
-David Macias
+# Screenshots of my work
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/62aa41f2-d044-48a4-92f9-cf8393991365" />
+
